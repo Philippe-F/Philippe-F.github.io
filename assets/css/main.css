@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+.colored {
+	font-size: 110px;
+	display: inline-flex;
+	margin-top: 50px;
+	margin-right: 30px;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -3411,7 +3418,7 @@ input, select, textarea {
 			position: absolute;
 			right: 0;
 			top: 0;
-			vertical-align: middle;
+			/* vertical-align: middle; */
 			width: 7em;
 		}
 
