@@ -53,6 +53,9 @@ body {
 	border: 1px solid rgb(238, 236, 138);
 }
 
+.project-btn {
+	margin-bottom: 15px;
+}
 /* ///////////////// */
 ol, ul {
 	list-style: none;
@@ -2114,7 +2117,7 @@ input, select, textarea {
 
 	.image {
 		border-radius: 3px;
-		border: 0;
+		border: 1px solid lightblue;
 		display: inline-block;
 		position: relative;
 	}
