@@ -33,7 +33,8 @@ body {
 	line-height: 1;
 }
 /* ///////////////// */
-.colored, .devicon-mongodb-plain-wordmark, .devicon-nodejs-plain-wordmark {
+.colored, .devicon-mongodb-plain-wordmark, .devicon-nodejs-plain-wordmark,
+ .devicon-mysql-plain-wordmark {
 	font-size: 110px;
 	display: inline-flex;
 	margin-top: 50px;
